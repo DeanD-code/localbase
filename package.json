@@ -9,7 +9,7 @@
     "bundle": "npm run bundle-dev && npm run bundle-prod",
     "deploy": "npm run bundle && npm publish"
   },
-  "author": "Danny Connell",
+  "author": "Dean Dye",
   "license": "MIT",
   "dependencies": {
     "browserify": "^17.0.0",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dannyconnell/localbase.git"
+    "url": "git+https://github.com/DeanD-code/localbase.git"
   },
   "keywords": [
     "database",
@@ -37,7 +37,7 @@
     "javascript"
   ],
   "bugs": {
-    "url": "https://github.com/dannyconnell/localbase/issues"
+    "url": "https://github.com/DeanD-code/localbase/issues"
   },
-  "homepage": "https://github.com/dannyconnell/localbase#readme"
+  "homepage": "https://github.com/DeanD-code/localbase#readme"
 }
